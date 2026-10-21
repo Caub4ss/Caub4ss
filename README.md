@@ -9,6 +9,16 @@ para obter mais experiência.
 
 ---
 
+### 🧠 Experiências pessoais
+
+- Um Curso de Logica de Programação e Estrutura de Dados
+- Dois certificados em Kotlin
+- Domínio do Kotlin e Apex
+- Um curso de Salesforce
+- Conhecimento profundo em inglês 
+
+---
+
 ### 🤖 Linguagens e Tecnologias atuais
 
 <img
