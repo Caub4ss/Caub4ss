@@ -1,16 +1,38 @@
-## Hi there 👋
+👨‍💻 Caub4ss
 
-<!--
-**Caub4ss/Caub4ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+""`Desenvolvedor BackEnd`""
 
-Here are some ideas to get you started:
+Me chamo Cauby Eduardo, tenho 17 anos, sou natural da Bahia e criado no Paraná, estou no terceiro
+ano do ensino médio, com claras pretensões de fazer Ciência da Computação, eu sou obcecado por
+tecnologia e programação e estou buscando minha primeira oportunidade como estagiário na programação
+para obter mais experiência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias atuais
+
+<img
+  alegn="left"
+  alt="Kotlin"
+  tittle="Kotlin"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+  />
+  <img
+    alegn="left"
+  alt="Apex"
+  tittle="Apex"
+  width="30px"
+  style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg"
+    />
+  <img 
+   alegn="left"
+  alt="Git"
+  tittle="Git"
+  width="30px"
+  style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
